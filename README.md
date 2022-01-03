@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# Regression Analysis Using Linear regression and Boosting Algorithms
 
 ## Table of Content
   * [Overview](#overview)
